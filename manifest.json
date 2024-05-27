@@ -1,16 +1,17 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Extension v3 Starter",
-  "description": "A minimal example of a chrome extension using manifest v3",
+  "name": "Henry Lectures Full Width",
+  "description": "a chrome extension to make the Henry Lectures full width",
   "version": "0.0.1",
   "icons": {
     "16": "logo/logo-16.png",
+    "32": "logo/logo-32.png",
     "48": "logo/logo-48.png",
     "128": "logo/logo-128.png"
   },
   "options_page": "settings/settings.html",
   "action": {
-    "default_title": "Chrome Addon v3 Starter",
+    "default_title": "Henry Lectures full width",
     "default_popup": "popup/popup.html"
   },
   "permissions": [],
